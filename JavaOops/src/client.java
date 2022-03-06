@@ -1,8 +1,6 @@
 public class client {
     public static void main(String[] args) {
-        animal a=new animal();
-        cat c= new cat();
-        a.run("animal");
+        interface1.cat c= new interface1.cat();
         c.run("cat");
     }
 }
