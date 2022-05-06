@@ -1,4 +1,4 @@
-package interface1;
+package abstraction;
 
 // thought cat implements animal
 // but it's extends abstract class. interface and abstract are different
